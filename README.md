@@ -1,9 +1,9 @@
 # Historia do Java
-- construido a patir do rico legado herdado das limnguagens C e C++, java adiciona melhoria e recursos que refletem o estado atual 
+Construido a patir do rico legado herdado das limnguagens C e C++, java adiciona melhoria e recursos que refletem o estado atual 
 da arte de programar. Respondendo à ascensão do ambiente online, a linguagem java oferece recursos que otimizam a programação para uma arquitetura altamente distribuida java foi concebida por James Gosling, Patrick Naughton, Chris Warth, Ed Frank e Mike Sheridan na Sun Microsystems em 1991. No inicio, a linguagem se chamava "Oak", mas foi renomeada como "Java" em 1995. Java foi projetado para ter um comportamento consistente em qualquer plataforma, ou dispositivo.Isso indica que o código Java pode ser executado em qualquer sistema operacional.
 
 # Lançamento da linguagem java na internet
-- O Java foi lançado ao público em 23 de maio de 1995 e rapidamente ganhou popularidade devido à crescente demanda por programas que funcionavam na web. A linguagem foi desenvolvida com o objetivo de garantir segurança, sendo uma das primeiras a fornecer proteção sólida para o uso na internet. A internet ajudou a impulsionar java para a dianteira da programação e, por sua vez, java teve um efeito profundo sobre a internet. 
+O Java foi lançado ao público em 23 de maio de 1995 e rapidamente ganhou popularidade devido à crescente demanda por programas que funcionavam na web. A linguagem foi desenvolvida com o objetivo de garantir segurança, sendo uma das primeiras a fornecer proteção sólida para o uso na internet. A internet ajudou a impulsionar java para a dianteira da programação e, por sua vez, java teve um efeito profundo sobre a internet. 
  Ela inovou com um tipo de programa de rede chamado applet, que mudou a maneira como o mundo online pensa em conteúdo, além de simplificar a programação geral na web.
   
 ## Como o Java é executado em diferentes sistemas operacionais ?
